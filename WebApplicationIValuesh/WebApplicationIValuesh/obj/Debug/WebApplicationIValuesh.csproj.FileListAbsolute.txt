@@ -1,0 +1,10 @@
+C:\Users\andre.haas\Google Drive\Projetos\IValuesh\WebApplicationIValuesh\WebApplicationIValuesh\bin\WebApplicationIValuesh.dll
+C:\Users\andre.haas\Google Drive\Projetos\IValuesh\WebApplicationIValuesh\WebApplicationIValuesh\bin\WebApplicationIValuesh.pdb
+C:\Users\andre.haas\Google Drive\Projetos\IValuesh\WebApplicationIValuesh\WebApplicationIValuesh\obj\Debug\WebApplicationIValuesh.csprojResolveAssemblyReference.cache
+C:\Users\andre.haas\Google Drive\Projetos\IValuesh\WebApplicationIValuesh\WebApplicationIValuesh\obj\Debug\WebApplicationIValuesh.dll
+C:\Users\andre.haas\Google Drive\Projetos\IValuesh\WebApplicationIValuesh\WebApplicationIValuesh\obj\Debug\WebApplicationIValuesh.pdb
+C:\Users\andrehaas\Documents\Projetos\IValuesh\WebApplicationIValuesh\WebApplicationIValuesh\bin\WebApplicationIValuesh.dll
+C:\Users\andrehaas\Documents\Projetos\IValuesh\WebApplicationIValuesh\WebApplicationIValuesh\bin\WebApplicationIValuesh.pdb
+C:\Users\andrehaas\Documents\Projetos\IValuesh\WebApplicationIValuesh\WebApplicationIValuesh\obj\Debug\WebApplicationIValuesh.csprojResolveAssemblyReference.cache
+C:\Users\andrehaas\Documents\Projetos\IValuesh\WebApplicationIValuesh\WebApplicationIValuesh\obj\Debug\WebApplicationIValuesh.dll
+C:\Users\andrehaas\Documents\Projetos\IValuesh\WebApplicationIValuesh\WebApplicationIValuesh\obj\Debug\WebApplicationIValuesh.pdb

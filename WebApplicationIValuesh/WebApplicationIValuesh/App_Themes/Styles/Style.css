@@ -1,0 +1,40 @@
+﻿   body {
+        text-align: center;
+    }
+
+    div.outset {
+        background-color: #E0E0D1;
+        border-style: outset;
+        margin: 10px;
+    }
+
+    textarea.grande {
+        width: 665px;
+        height: 125px;
+    }
+
+    input {
+        padding: 5px;
+    }
+    .but{
+        display:inline-block;
+        background-color:#ccc;
+        color:#444;
+        padding:10px 20px;
+        text-decoration:none;
+        box-sizing:border-box;
+        font-size:14px;
+        border:0px;
+    }
+        .but:hover
+        {
+            background-image:linear-gradient(to bottom, transparent,rgba(0,0,0,10));
+            cursor:pointer;
+        }
+    .but-padrao
+    {
+        color:#fff;
+        background-color:#0068B4;
+        box-shadow:1px 1px 1px #999;
+        border-radius:4px;
+    }
